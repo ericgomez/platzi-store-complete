@@ -1,4 +1,11 @@
-# PlatziStoreComplete
+# Clases del Curso de React Avanzado
+#### Proyecto del curso
+
+![proyect](https://static.platzi.com/media/landing-projects/proyecto-angular-8.gif)
+
+## Platzi Shop
+
+Desarrolla una tienda en línea con Angular desde cero. Aprovecha las características de Angular para construir una aplicación en menos tiempo usando componentes, módulos y rutas. Usa Angular Material para dar estilo los elementos de tu webapp. Despliega tu aplicación de e-commerce a Internet.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
