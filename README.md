@@ -1,4 +1,4 @@
-# Clases del Curso de React Avanzado
+# Clases del Curso de Angular
 #### Proyecto del curso
 
 ![proyect](https://static.platzi.com/media/landing-projects/proyecto-angular-8.gif)
