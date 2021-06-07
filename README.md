@@ -1,4 +1,4 @@
-# Clases del Curso de Angular
+# Curso de Angular
 #### Proyecto del curso
 
 ![proyect](https://static.platzi.com/media/landing-projects/proyecto-angular-8.gif)
@@ -8,6 +8,11 @@
 Desarrolla una tienda en línea con Angular desde cero. Aprovecha las características de Angular para construir una aplicación en menos tiempo usando componentes, módulos y rutas. Usa Angular Material para dar estilo los elementos de tu webapp. Despliega tu aplicación de e-commerce a Internet.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+
+## Routes Admin
+
+- Navigate to `http://localhost:4200/admin`
+- Navigate to `http://localhost:4200/order`
 
 ## Development server
 
